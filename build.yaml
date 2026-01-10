@@ -1,8 +1,8 @@
 ---
 include:
-  - board: nice!nano
+  - board: nice_nano
     shield: charybdis_left
-  - board: nice!nano
+  - board: nice_nano
     shield: charybdis_right
-  - board: nice!nano
+  - board: nice_nano
     shield: settings_reset
